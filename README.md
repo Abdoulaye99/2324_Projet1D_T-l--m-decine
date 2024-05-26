@@ -12,34 +12,34 @@ Ce tutoriel vous guidera à travers les étapes nécessaires pour utiliser un ca
   - Configurer l'environnement de développement.
   - Mettre en place la communication entre le STM32 et l'application mobile.
 - **Tâches :**
-  1. Définir les fonctionnalités principales (affichage en temps réel).
-  2. Choisir les outils et technologies.
-  3. Configurer le microcontrôleur STM32 et les connexions matérielles.
+  . Définir les fonctionnalités principales (affichage en temps réel).
+  . Choisir les outils et technologies.
+  . Configurer le microcontrôleur STM32 et les connexions matérielles.
 
 #### Semaine 2 : Développement de l'Interface Mobile
 - **Objectifs :**
   - Créer une application mobile pour recevoir et afficher les données.
   - Assurer la communication Bluetooth entre le STM32 et l'application mobile.
 - **Tâches :**
-  1. Créer l'interface utilisateur de l'application mobile.
-  2. Implémenter la réception des données via Bluetooth.
-  3. Tester la réception et l'affichage des données sur l'application mobile.
+  . Créer l'interface utilisateur de l'application mobile.
+  . Implémenter la réception des données via Bluetooth.
+  . Tester la réception et l'affichage des données sur l'application mobile.
 
 #### Semaine 3 : Développement du Backend Minimaliste
 - **Objectifs :**
   - Mettre en place un backend simple pour gérer les données.
 - **Tâches :**
-  1. Transmettre les données en temps réel au tableau de bord.
-  2. Tester les endpoints.
+  . Transmettre les données en temps réel au tableau de bord.
+  . Tester les endpoints.
 
 #### Semaine 4 : Développement du Frontend Simple
 - **Objectifs :**
   - Développer un frontend pour afficher les données en temps réel.
 - **Tâches :**
-  1. Développer l'interface utilisateur du tableau de bord.
-  2. Implémenter la réception des données en temps réel.
-  3. Afficher les valeurs de fréquence cardiaque.
-  4. Tester l'affichage des données.
+  . Développer l'interface utilisateur du tableau de bord.
+  . Implémenter la réception des données en temps réel.
+  . Afficher les valeurs de fréquence cardiaque.
+  . Tester l'affichage des données.
 
 #### Semaine 5 : Tests, Déploiement et Documentation
 - **Objectifs :**
@@ -47,8 +47,8 @@ Ce tutoriel vous guidera à travers les étapes nécessaires pour utiliser un ca
   - Déployer le tableau de bord.
   - Documenter le projet.
 - **Tâches :**
-  1. Tester le système complet (application mobile, backend, frontend).
-  2. Corriger les bugs et améliorer la stabilité.
+  . Tester le système complet (application mobile, backend, frontend).
+  . Corriger les bugs et améliorer la stabilité.
 
 
 
