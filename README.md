@@ -25,14 +25,14 @@ Ce tutoriel vous guidera à travers les étapes nécessaires pour utiliser un ca
   - Implémenter la réception des données via Bluetooth.
   - Tester la réception et l'affichage des données sur l'application mobile.
 
-#### Semaine 3 : Développement du Backend Minimaliste
+#### Semaine 3 : Développement du Backend 
 - **Objectifs :**
-  - Mettre en place un backend simple pour gérer les données.
+  - Mettre en place le code smt32 pour gérer les données.
 - **Tâches :**
   - Transmettre les données en temps réel au tableau de bord.
   - Tester les endpoints.
 
-#### Semaine 4 : Développement du Frontend Simple
+#### Semaine 4 : Développement du Frontend 
 - **Objectifs :**
   - Développer un frontend pour afficher les données en temps réel.
 - **Tâches :**
