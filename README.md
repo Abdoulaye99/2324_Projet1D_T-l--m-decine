@@ -9,7 +9,7 @@ Ce tutoriel vous guidera à travers les étapes nécessaires pour utiliser un ca
 - Capteur de pulsation ( un capteur de fréquence cardiaque)
 - Module Bluetooth (HC-05)
 - Câbles de connexion
-- 
+  
 ### Logiciels nécessaires
 - STM32CubeIDE
 - Application mobile pour Android (MIT App Inventor)
